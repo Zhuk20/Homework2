@@ -8,6 +8,7 @@ public class Main {
     }
     public static void task1() {
         System.out.println("Задача 1");
+
         float dog = 8.0f;
         float cat = 3.6f;
         int paper = 763789;
@@ -32,6 +33,7 @@ public class Main {
         System.out.println(paper);
     }
     public static void task2(){
+
         System.out.println("Задача 4");
         var friend = 19;
         System.out.println(friend);
@@ -42,6 +44,7 @@ public class Main {
 
     }
     public static void task3() {
+
         System.out.println("Задача 5");
         float frog = 3.5f;
         System.out.println(frog);
@@ -53,6 +56,7 @@ public class Main {
         System.out.println(frog);
     }
     public static void task4(){
+
         System.out.println("Задача 6");
         float box1 = 78.2f;
         float box2 = 82.7f;
@@ -60,6 +64,7 @@ public class Main {
         var boxDifference = box1 - box2;
         System.out.println("общий вес двух бойцов" + boxSum + "кг!");
         System.out.println("Разница веса между бойцами" + boxDifference + "кг!");
+
         System.out.println("Задача 7");
         var boxDifference1 = box2 - box1;
         var boxDifference2 = box2 % box1;
@@ -67,6 +72,7 @@ public class Main {
         System.out.println("Разница веса между бойцами" + boxDifference2 + "кг!");
     }
     public static void task5(){
+
     System.out.println("Задача 8");
     var worker = 640/8;
     System.out.println("Всего работников в компании - " + worker + " человек");
